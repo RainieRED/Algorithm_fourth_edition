@@ -48,5 +48,6 @@ public class E_1_2_9 {
 		}
 		
 		System.out.println("It took "+counter+" attempts to find "+tmp+" from an array of length "+n);	
+		//It took 1 cnt attempts to find 4 from an array of length 10
 	}
 }
